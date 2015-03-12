@@ -1,0 +1,4 @@
+module boost_throw_exception {
+  header "boost/exception/exception.hpp"
+  header "boost/throw_exception.hpp"
+}
